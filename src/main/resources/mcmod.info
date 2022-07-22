@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "material_mod",
+    "name": "Material_mod",
+    "description": "",
+    "version": "0.1.0",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
